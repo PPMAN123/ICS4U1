@@ -2,10 +2,6 @@
 
 using namespace std;
 
-int getNextNum(int prevNum, int currentNum){
-  return to_string(prevNum + currentNum)[to_string(prevNum + currentNum).length() - 1]  - '0';
-}
-
 int main(){
   int prevNum, currentNum, nextNum, steps = 0, initialPrev, initialCurrent;
 
@@ -19,7 +15,7 @@ int main(){
 
   do {
     steps++;
-    nextNum = getNextNum(prevNum, currentNum);
+    nextNum = (prevNum + currentNum) % 10;
     prevNum = currentNum;
     currentNum = nextNum;
     cout << ' ' << currentNum;
