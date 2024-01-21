@@ -1,0 +1,228 @@
+Virgin Islands (United States),16.6,-1
+Virgin Islands (United Kingdom),0.8,-1
+Vietnam,1.6,-1
+Venezuela,18.5,-1
+Vanuatu,3.9,-1
+United Arab Emirates,16.7,-1
+Ukraine,9.9,6.16025
+Turks and Caicos Islands (United Kingdom),3.3,-1
+Trinidad and Tobago,3.2,33.4775
+Togo,0.8,-1
+Taiwan,0.04,-1
+Syrian Arab Republic,8.2,-1
+Switzerland,27.6,0.532438
+Sweden,23.1,1.12346
+Swaziland,4.8,-1
+Suriname,15.9,6.12704
+Sudan,6.6,-1
+South Africa,9.7,35.9032
+Somalia,12.4,-1
+Slovenia,15.6,0.905455
+Sierra Leone,0.5,-1
+Tajikistan,0.4,-1
+Senegal,2,-1
+Turkmenistan,0.4,-1
+São Tomé and Principe,3.4,-1
+San Marino,15.6,-1
+Tonga,8,-1
+Samoa,10.1,3.37139
+Saint Vincent and the Grenadines,3.4,36.9498
+Saint Martin (France),8.5,-1
+Saint Lucia,3.4,27.6581
+Uganda,0.8,11.8
+Saint Kitts and Nevis,3.4,48.1318
+Rwanda,0.5,3.8429
+United States,120.5,-1
+Tuvalu,1.2,-1
+Romania,2.6,1.29449
+Réunion (France),19.6,-1
+Sri Lanka,2.4,2.25975
+Puntland,12.3,-1
+Puerto Rico (United States),11.5,-1
+Portugal,21.3,0.737325
+Poland,2.5,0.74482
+Philippines,3.6,7.74603
+Peru,2,7.86889
+Paraguay,16.7,8.51244
+Papua New Guinea,1,-1
+Panama,10.8,9.22837
+Palestinian Territories (Israel),1.1,-1
+Palau,0.5,0
+North Korea,0.3,-1
+Northern Mariana Islands (United States),2.6,-1
+Northern Ireland,11,-1
+Nigeria,3.2,-1
+Nepal,1.5,2.18923
+Pakistan,22.3,3.80581
+Myanmar,1.6,2.66216
+Morocco,4.8,2.14197
+Montenegro,39.1,2.37177
+Thailand,15.1,-1
+Mongolia,7.9,6.16919
+Mexico,12.9,26.1146
+Micronesia,0.7,-1
+Mauritius,8.3,2.54877
+South Sudan,9.6,-1
+England and Wales,4.6,-1
+Cyprus,34,0.579219
+Christmas Island,0,-1
+Croatia,13.7,1.09721
+Czech Republic,12.5,-1
+Fiji,0.5,-1
+Djibouti,3.1,-1
+Burkina Faso,0.9,-1
+Chad,1,-1
+Algeria,2.1,1.27381
+Chile,12.1,4.24094
+Denmark,9.9,1.23752
+Cayman Islands (United Kingdom),9.2,-1
+Cameroon,2.1,4.1159
+Lebanon,31.9,4.02668
+Scotland,5.6,-1
+El Salvador,12,63.2235
+Slovakia,6.5,1.47075
+Bahrain,12.8,0.411852
+Costa Rica,10,12.0749
+Grenada,4.6,9.92388
+Montserrat (United Kingdom),5.4,-1
+Kenya,1.5,5.03799
+Sint Maarten (Netherlands),4.2,-1
+Colombia,10.1,25.4345
+Aruba (Netherlands),2.6,-1
+Macao (China),3.6,-1
+Monaco,18.4,-1
+Belgium,12.7,-1
+American Samoa (United States),0.7,-1
+Greece,17.6,0.804323
+Belize,10,37.8976
+Central African Republic,1.8,-1
+Curaçao,2.6,-1
+Spain,7.5,0.659022
+Azerbaijan,3.6,1.80707
+Angola,11.2,-1
+Maldives,6.2,7.19665
+Bulgaria,8.4,1.43406
+Benin,0.3,-1
+Cape Verde (Cabo Verde),5.7,-1
+Armenia,6.1,2.45448
+Bahamas,18.8,30.5749
+Libya,13.3,-1
+South Korea,0.2,-1
+Austria,30,0.795681
+Uzbekistan,0.4,1.85002
+Falkland Islands (United Kingdom),66.7,-1
+Democratic Republic of Congo,1.2,-1
+Guinea-Bissau,1.5,1.11712
+Bhutan,0.8,1.7193
+Ireland,7.2,0.817292
+Uruguay,34.7,8.26953
+Liberia,2.1,-1
+Seychelles,4.1,6.87552
+Albania,12,2.01434
+Solomon Islands,0.2,-1
+Dominican Republic,7.4,11.4208
+Bolivia,2,6.53227
+Afghanistan,12.5,6.80069
+Norway,28.8,0.530565
+Netherlands,2.6,0.767121
+Brunei,1.4,-1
+Canada,34.7,1.81921
+Finland,32.4,1.21638
+Malta,28.3,1.66842
+Yemen,52.8,-1
+Barbados,3.5,10.7455
+Zimbabwe,2.8,-1
+Saudi Arabia,53.7,-1
+Kyrgyzstan,2.8,-1
+Cuba,2.1,4.55171
+Argentina,7.4,5.25938
+Iran,7.3,-1
+Belarus,6.1,2.47222
+Cambodia,4.5,-1
+Brazil,8.3,30.593
+Kiribati,0.8,-1
+Somaliland,11.9,-1
+Estonia,5,2.20106
+Antigua and Barbuda,5.4,21.9493
+Oman,16.7,0.374296
+Jordan,18.7,1.30196
+Malawi,0.3,-1
+Bermuda (United Kingdom),4.6,-1
+Niger,0.5,-1
+Namibia,15.4,-1
+Kosovo,23.8,-1
+Bosnia and Herzegovina,31.2,1.22092
+Italy,14.4,0.626625
+Germany,19.6,0.983971
+Botswana,4.1,-1
+Lithuania,13.6,3.44299
+New Caledonia (France),42.5,-1
+Equatorial Guinea,12.5,-1
+Hong Kong (China),3.6,-1
+Eritrea,0.4,-1
+Burundi,2,-1
+Ethiopia,0.4,-1
+Latvia,10.5,4.14351
+French Guiana (France),19.6,-1
+Australia,14.5,0.845861
+Japan,0.3,0.241587
+French Polynesia (France),2.5,-1
+New Zealand,26.3,0.737424
+Indonesia,0.03,-1
+Gabon,3.4,-1
+Gambia,6.5,-1
+Timor-Leste (East Timor),0.3,-1
+Georgia,10.1,2.41258
+Liechtenstein,28.8,2.63932
+Zambia,0.9,-1
+Ecuador,2.4,5.80945
+Gibraltar (United Kingdom),4.1,-1
+Dominica,6.2,26.9875
+Greenland (Denmark),22.3,-1
+Tunisia,1.1,-1
+Iceland,31.7,0.873027
+Guadeloupe (France),8.5,-1
+Guam (United States),11.5,-1
+Comoros,1.5,-1
+Ghana,8,2.01507
+India,5.3,3.02888
+Guatemala,12.1,32.783
+Turkey,16.5,-1
+Singapore,0.3,0.190824
+Guinea,1,-1
+Laos,3,-1
+Republic of Congo,2.4,-1
+Moldova,3,-1
+Bangladesh,0.4,2.19353
+Guyana,15.8,15.0671
+Honduras,14.1,40.1378
+China,3.6,0.566556
+Iraq,19.6,-1
+Nicaragua,5.2,6.65069
+Haiti,2.6,-1
+France,19.6,1.10688
+Faroe Islands (Denmark),9.9,-1
+Holy See,0,-1
+Hungary,10.5,1.6345
+Nauru,0,-1
+Madagascar,0.7,-1
+Israel,6.7,1.48028
+Tanzania,0.8,-1
+Luxembourg,18.9,0.335411
+Ivory Coast (Côte d'Ivoire),4.4,-1
+Egypt,4.1,1.33609
+Jamaica,8.8,58.646
+Mozambique,4.5,-1
+Kazakhstan,2.8,4.99596
+Mauritania,2.8,-1
+Qatar,16.7,0.442518
+Kuwait,16.7,1.11518
+Serbia,39.1,1.15206
+Channel Islands,14,-1
+Lesotho,4.8,-1
+Andorra,14.1,-1
+Malaysia,0.7,1.18527
+Mali,1.1,-1
+Marshall Islands,0.5,-1
+Russian Federation,12.3,9.13906
+Martinique (France),8.5,-1

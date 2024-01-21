@@ -1,0 +1,13 @@
+# Fdb version 3
+["pdflatex"] 1702391278 "/home/ethan/Documents/Programming/ICS4U1/R/thing.tex" "thing.pdf" "thing" 1702391278
+  "/etc/texmf/web2c/texmf.cnf" 1702250553 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/ethan/Documents/Programming/ICS4U1/R/thing.tex" 1702391278 94 de3c5ce90e5c47f895c496512956e382 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1702250577 1435960 1d6b142f1ec01ce44a33c0a11e74fe5e ""
+  "apa7.cls" 0 -1 0 ""
+  "thing.aux" 1702391278 32 3985256e7290058c681f74d7a3565a19 ""
+  "thing.tex" 1702391278 94 de3c5ce90e5c47f895c496512956e382 ""
+  (generated)
+  "thing.log"
+  "thing.pdf"
